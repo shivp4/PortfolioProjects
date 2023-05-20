@@ -1,7 +1,7 @@
 # PortfolioProjects
 
 DATA SET 
-Covid-19 data from March 2020 to March 2023 - ![Our World in Data]https://ourworldindata.org/covid-deaths
+Covid-19 data from March 2020 to March 2023 - ![Our World in Data](https://ourworldindata.org/covid-deaths)
 
 
 TOOLS USED 
